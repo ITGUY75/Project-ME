@@ -1,0 +1,1 @@
+<a href="http://www.youtube.com/user/username"><img src="path-to-image-file" alt="Find us on YouTube." style="border: 0px none;"></a>
